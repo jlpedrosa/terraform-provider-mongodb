@@ -1,0 +1,14 @@
+{
+    "go.testEnvVars": {
+        "TF_ACC" : "1"
+    },
+    "go.testFlags": [
+        "-v"
+    ],
+    "go.generateTestsFlags": [
+        "-v"
+    ],
+    "go.delveConfig": {
+    
+    }
+}
